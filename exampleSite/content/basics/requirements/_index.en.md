@@ -1,5 +1,5 @@
 ---
-title: Requirements en
+title: Requirements
 weight: "10"
 disableToc: true
 
