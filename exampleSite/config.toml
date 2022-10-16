@@ -50,10 +50,10 @@ identifier = "gh"
 url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
-[[Languages.en.menu.shortcuts]]
+<!-- [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
 url = "/credits"
-weight = 30
+weight = 30 -->
 
 [Languages.fr]
 title = "Documentation du thème Hugo Learn"
@@ -80,10 +80,10 @@ identifier = "gh"
 url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
-[[Languages.fr.menu.shortcuts]]
+<!--[[Languages.fr.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
 url = "/credits"
-weight = 30
+weight = 30-->
 
 [Languages.zh]
 title = "Hugo 主题的 Learn 文档"
@@ -110,7 +110,7 @@ identifier = "gh"
 url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
-[[Languages.zh.menu.shortcuts]]
+<!--[[Languages.zh.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bullhorn'></i> 鸣谢"
 url = "/credits"
-weight = 30
+weight = 30-->
