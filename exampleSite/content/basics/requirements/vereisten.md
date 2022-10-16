@@ -1,6 +1,6 @@
 ---
 title: Vereisten
-weight: 4
-disableToc: false
+weight: 10
+disableToc: true
 
 ---
