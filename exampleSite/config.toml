@@ -76,7 +76,7 @@ url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
 [Languages.nl]
-title = "Documentation for Hugo Learn Theme"
+title = "Documentatie voor Hugo Learn Theme"
 weight = 2
 languageName = "Nederland"
 landingPageURL = "/nl"
