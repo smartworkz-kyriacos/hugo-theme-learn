@@ -1,5 +1,5 @@
 ---
-voor uw besturingssysteem (Windows, Linux, Mac): zo eenvoudig is het.title: Requirements
+title: Requirements
 weight: "10"
 disableToc: true
 ---
