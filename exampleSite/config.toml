@@ -33,20 +33,21 @@ landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+name = "<i class='fa-solid fa-globe'></i> Web site"
+identifier = "ws"
+url = "https://www.smartworkz.nl"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
+name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+identifier = "li"
+url = "https://www.linkedin.com/company/smartworkznl"
 weight = 11
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fa-brands fa-github'></i> GitHub"
+identifier = "gh"
+url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
@@ -62,20 +63,21 @@ landingPageURL = "/fr"
 landingPageName = "<i class='fas fa-home'></i> Accueil"
 
 [[Languages.fr.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Repo GitHub"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+name = "<i class='fa-solid fa-globe'></i> Web site"
+identifier = "ws"
+url = "https://www.smartworkz.nl"
 weight = 10
 
 [[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
-url = "/showcase"
+name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+identifier = "li"
+url = "https://www.linkedin.com/company/smartworkznl"
 weight = 11
 
 [[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fa-brands fa-github'></i> GitHub"
+identifier = "gh"
+url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
 [[Languages.fr.menu.shortcuts]]
@@ -91,20 +93,21 @@ landingPageURL = "/zh"
 landingPageName = "<i class='fas fa-home'></i> 家"
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub 仓库"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+name = "<i class='fa-solid fa-globe'></i> Web site"
+identifier = "ws"
+url = "https://www.smartworkz.nl"
 weight = 10
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> 展示区"
-url = "/showcase"
+name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+identifier = "li"
+url = "https://www.linkedin.com/company/smartworkznl"
 weight = 11
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo 文档"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
+name = "<i class='fa-brands fa-github'></i> GitHub"
+identifier = "gh"
+url = "https://github.com/smartworkz-kyriacos/sagemaker-workshop.git"
 weight = 20
 
 [[Languages.zh.menu.shortcuts]]
